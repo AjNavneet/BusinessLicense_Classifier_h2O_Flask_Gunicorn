@@ -1,4 +1,4 @@
-# Business license clasifier using h2O, Flask and Gunicorn deployment
+# Business license clasifier using h20 and Flask deployment
 
 ## Objective
 
