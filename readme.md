@@ -39,24 +39,4 @@ To run this project, follow these steps:
 1. Install the required libraries listed in `requirements.txt`.
 2. Execute the code in the `src` folder for each project phase.
 
-## Key Concepts Explored
-
-1. What is a Deep Neural Network?
-2. Building blocks of Deep Neural Network
-3. What is the Activation Function?
-4. What is Feedforward?
-5. What is Backpropagation?
-6. Loss function and its examples
-7. What is Dropout regularization?
-8. Deep learning libraries such as TensorFlow, PyTorch, PyTorch Lightning, Horovod
-9. Understanding the business context and objective
-10. Data Cleaning
-11. How to prepare data for modeling?
-12. How to use the h2o framework for baseline modeling?
-13. How to build a Deep Neural Network Model?
-14. Hyperparameter tuning
-15. Model predictions on test data
-16. Model deployment using Flask and Gunicorn
-17. Making predictions using the deployed model on the server
-
 ---
